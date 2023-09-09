@@ -25,7 +25,7 @@ const ListingReservation:React.FC<ListingReservationProps> = ({
                 </div>
 
                 <div className='font-light text-neutral-600'>
-                     شب
+                     &nbsp; بابت یک شب
                 </div>
             </div>  
 
