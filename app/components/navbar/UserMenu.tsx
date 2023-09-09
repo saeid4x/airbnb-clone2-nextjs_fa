@@ -48,7 +48,7 @@ const UserMenu:React.FC<UserMenuProps> = ({
                transition cursor-pointer                
             "  
             >
-                Airbnb خانه دوم شماست
+                ثبت اقامتگاه جدید
 
             </div>
 
@@ -95,7 +95,7 @@ const UserMenu:React.FC<UserMenuProps> = ({
                             
                               <MenuItem 
                                 onClick={rentModal.onOpen}
-                                label="Airbnb خانه شماست"
+                                label="ثبت اقامتگاه جدید "
                               />
                               <hr />
                             
