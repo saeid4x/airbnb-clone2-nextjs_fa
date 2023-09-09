@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import Image from 'next/image'
 import getCurrentUser from './actions/getCurrentUser';
 import getListings, { IListingsParams } from './actions/getListings';
