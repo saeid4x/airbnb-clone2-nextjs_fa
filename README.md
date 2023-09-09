@@ -1,4 +1,4 @@
- ![image screenshot](screenshot.PNG)
+ ![image screenshot](screenshot.jpg)
 
 ## Getting Started
 
